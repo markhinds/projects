@@ -66,10 +66,4 @@ A-1: Outage Prediction Modeling (A-1: Information Systems and Modeling)
 - **Key Features:**
   - Deep Evidential Regression
   - Convolutional Neural Networks
-  - Team Members: Bayesian Neural Networks, Autoencoder Model
-
-## Getting Started
-
-To explore a specific project, click on the corresponding project folder and follow the instructions in the project's README.
-
-# Follow project-specific instructions in the README
+  - Team Members: Bayesian Neural Networks, Autoencoder
