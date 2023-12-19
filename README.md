@@ -13,8 +13,8 @@ Welcome to my personal website! This repository serves as a portfolio showcasing
 ## Experience
 
 ### Los Alamos National Laboratory
-**Graduate Research Assistant (January 2024-Present)**
-(CCS-6: Statistical Sciences)
+**Graduate Research Assistant (January 2024-Present)**<br />
+(CCS-6: Statistical Sciences) <br />
 **Post-Baccularete Intern (May 2022 - August 2023)**: 
 (A-1: Information Systems and Modeling)
 A-1: National Critical Decomposition
