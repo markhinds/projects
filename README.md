@@ -1,4 +1,4 @@
-# Mark Hinds Projects and Experience
+# Data Scientist
 
 Welcome to my personal website! This repository serves as a portfolio showcasing some of the machine learning and data science projects I've worked on. Feel free to explore the projects and learn more about my data-driven endeavors.
 
